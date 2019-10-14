@@ -4,7 +4,7 @@
 
 ## Install
 
-With [fisherman](https://fisherman.github.io)
+With [fisher](https://github.com/jorgebucaran/fisher)
 
 ```
 fisher add usami-k/fish-cd-ghq
