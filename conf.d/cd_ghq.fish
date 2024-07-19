@@ -1,4 +1,4 @@
-bind \cg '__cd_ghq'
+bind \cg 'cd_ghq'
 if bind -M insert >/dev/null
-    bind -M insert \cg '__cd_ghq'
+    bind -M insert \cg 'cd_ghq'
 end
