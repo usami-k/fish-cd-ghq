@@ -14,7 +14,8 @@ fisher add usami-k/fish-cd-ghq
 
 * This plugin needs ghq command.
 * This plugin needs fzf command.
-* To change directory, press `Ctrl-g`
+* To change directory, run `g` command.
+* For those who prefer using shortcut keys, we recommend [decors/fish-ghq](https://github.com/decors/fish-ghq).
 
 ## License
 
